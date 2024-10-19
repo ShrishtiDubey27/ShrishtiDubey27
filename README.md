@@ -75,9 +75,10 @@ I'm a passionate web developer and a second-year student at the Indian Institute
 
 ### 🌱 Interests
 
-- Web Development
-- Backend Technologies
+- Frontend Development
+- Backend Development
 - Competitive Programming
+- Data Structures and Algorithms
 - Open Source Contribution
 
 ---
