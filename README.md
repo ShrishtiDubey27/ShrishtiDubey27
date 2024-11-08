@@ -85,7 +85,7 @@ I'm a passionate web developer and a second-year student at the Indian Institute
 
 ### 📫 How to reach me
 
-- Email: shrishti.dubey5204@gmail.com
+- Email: shrishtidubey5204@gmail.com
 - LinkedIn: [Shrishti Dubey](https://www.linkedin.com/in/shrishti-dubey5204)
 - GitHub: [Shrishti Dubey](https://github.com/ShrishtiDubey27)
 - CodeChef: [shri5204](https://www.codechef.com/users/shri5204)
