@@ -12,7 +12,7 @@ I'm a passionate web developer and a second-year student at the Indian Institute
 <h3 align="left">Connect with me :-</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shrishti-dubey5204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti-dubey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shri5204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shrishti-dubey" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shrishhh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shrishti-dubey" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shrishtidubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrishti-dubey" height="30" width="40" /></a>
 </p>
 
@@ -88,7 +88,7 @@ I'm a passionate web developer and a second-year student at the Indian Institute
 - Email: shrishtidubey5204@gmail.com
 - LinkedIn: [Shrishti Dubey](https://www.linkedin.com/in/shrishti-dubey5204)
 - GitHub: [Shrishti Dubey](https://github.com/ShrishtiDubey27)
-- CodeChef: [shri5204](https://www.codechef.com/users/shri5204)
+- CodeChef: [shri5204](https://www.codechef.com/users/shrishhh)
 - Codeforces: [shrishtidubey](https://codeforces.com/profile/shrishtidubey)
 
 ---
